@@ -1,6 +1,6 @@
 # División del predio · Versión 9 — Modelo 3D
 
-Visor web en 3D de la división del predio en dos lotes de 16.124,70 m² cada uno, con la vía común de 4 m, la línea divisoria D1–D2 (149,00 m) y la línea amarilla (86,51 m).
+Visor web en 3D de la división del predio en dos lotes de 16.024,20 m² cada uno, con la vía común de 5 m, la línea divisoria D1–D2 (149,00 m) y la línea amarilla (86,51 m).
 
 **Qué se puede hacer**
 - Ver el terreno en 3D: girar, acercar y cambiar los colores entre lotes, pendientes y natural.
